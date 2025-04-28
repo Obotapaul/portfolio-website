@@ -1,5 +1,7 @@
 # portfolio-website
 
+This project is a **personal portfolio website** designed to showcase the user's skills, experience, services, and work. It is structured as a multi-section webpage with responsive design and interactive elements. Here's an overview of its key features:
+
 ### 1. **Header Section**
    - Contains a navigation bar with links to different sections of the page: Home, About, Services, Portfolio, and Hire Me.
    - Includes a logo and a responsive menu toggle (hamburger icon) for smaller screens.
